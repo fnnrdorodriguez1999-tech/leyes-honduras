@@ -1,0 +1,126 @@
+{
+  "version": "2026.1",
+  "ultima_actualizacion": "2026-06-13",
+  "leyes": [
+    {
+      "id": "constitucion",
+      "nombre": "Constitución de la República",
+      "categoria": "Constitucional",
+      "archivo": "constitucional/constitucion_1982.pdf",
+      "tamaño_kb": 850,
+      "version": "2020",
+      "descripcion": "Constitución vigente con todas sus reformas",
+      "icono": "🏛️"
+    },
+    {
+      "id": "codigo_penal",
+      "nombre": "Código Penal",
+      "categoria": "Penal",
+      "archivo": "penal/codigo_penal.pdf",
+      "tamaño_kb": 1200,
+      "version": "2022",
+      "descripcion": "Código Penal vigente de Honduras",
+      "icono": "🔒"
+    },
+    {
+      "id": "codigo_proceso_penal",
+      "nombre": "Código Procesal Penal",
+      "categoria": "Penal",
+      "archivo": "penal/codigo_proceso_penal.pdf",
+      "tamaño_kb": 980,
+      "version": "2021",
+      "descripcion": "CPP vigente con reformas",
+      "icono": "🔒"
+    },
+    {
+      "id": "codigo_civil",
+      "nombre": "Código Civil",
+      "categoria": "Civil",
+      "archivo": "civil/codigo_civil.pdf",
+      "tamaño_kb": 1500,
+      "version": "2019",
+      "descripcion": "Código Civil vigente de Honduras",
+      "icono": "⚖️"
+    },
+    {
+      "id": "codigo_procesal_civil",
+      "nombre": "Código Procesal Civil",
+      "categoria": "Civil",
+      "archivo": "civil/codigo_procesal_civil.pdf",
+      "tamaño_kb": 1100,
+      "version": "2017",
+      "descripcion": "Código Procesal Civil vigente",
+      "icono": "⚖️"
+    },
+    {
+      "id": "codigo_trabajo",
+      "nombre": "Código de Trabajo",
+      "categoria": "Laboral",
+      "archivo": "laboral/codigo_trabajo.pdf",
+      "tamaño_kb": 900,
+      "version": "2021",
+      "descripcion": "Código de Trabajo vigente de Honduras",
+      "icono": "👷"
+    },
+    {
+      "id": "codigo_familia",
+      "nombre": "Código de Familia",
+      "categoria": "Familia",
+      "archivo": "familia/codigo_familia.pdf",
+      "tamaño_kb": 750,
+      "version": "2020",
+      "descripcion": "Código de Familia vigente",
+      "icono": "👨‍👩‍👧"
+    },
+    {
+      "id": "codigo_comercio",
+      "nombre": "Código de Comercio",
+      "categoria": "Mercantil",
+      "archivo": "mercantil/codigo_comercio.pdf",
+      "tamaño_kb": 1300,
+      "version": "2019",
+      "descripcion": "Código de Comercio vigente de Honduras",
+      "icono": "🏢"
+    },
+    {
+      "id": "ley_procedimiento_administrativo",
+      "nombre": "Ley de Procedimiento Administrativo",
+      "categoria": "Administrativo",
+      "archivo": "administrativo/ley_procedimiento_administrativo.pdf",
+      "tamaño_kb": 400,
+      "version": "2018",
+      "descripcion": "Ley de Procedimiento Administrativo vigente",
+      "icono": "📋"
+    },
+    {
+      "id": "ley_contratacion_estado",
+      "nombre": "Ley de Contratación del Estado",
+      "categoria": "Administrativo",
+      "archivo": "administrativo/ley_contratacion_estado.pdf",
+      "tamaño_kb": 600,
+      "version": "2020",
+      "descripcion": "Ley de Contratación del Estado vigente",
+      "icono": "📋"
+    },
+    {
+      "id": "ley_notariado",
+      "nombre": "Ley del Notariado",
+      "categoria": "Notarial",
+      "archivo": "notarial/ley_notariado.pdf",
+      "tamaño_kb": 350,
+      "version": "2018",
+      "descripcion": "Ley del Notariado vigente de Honduras",
+      "icono": "📝"
+    },
+    {
+      "id": "arancel_cah",
+      "nombre": "Arancel del Profesional del Derecho",
+      "categoria": "Arancel",
+      "archivo": "arancel/arancel_cah_2017.pdf",
+      "tamaño_kb": 500,
+      "version": "2017",
+      "descripcion": "Arancel oficial del CAH vigente 2017",
+      "icono": "📖"
+    }
+  ]
+}
